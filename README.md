@@ -9,6 +9,13 @@ I'm currently majoring in Computer Science at Drexel.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I also make YouTube [videos](https://www.youtube.com/@binh) 🤫
 
+# Tech Stack
+[![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,express,react,nodejs&theme=dark)](https://skillicons.dev)
+
+[![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=vscode,netlify,idea,heroku,github,figma,eclipse&theme=dark)](https://skillicons.dev)
+
 <!--
 **BinhL3/BinhL3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
