@@ -5,7 +5,7 @@ I'm currently majoring in Computer Science at Drexel.
 - 🔭 I’m currently working at a startup for COOP/Internship Experience
 - 🌱 I’m currently learning Robust Machine Learning 
 - 💬 Ask me about Python/Web Development/Git
-- 📫 How to reach me: [@binh](https://www.linkedin.com/in/binhlee/)
+- 📫 How to reach me: [@binh](https://www.linkedin.com/in/binhlee/) / bql23@drexel.edu
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I also make YouTube [videos](https://www.youtube.com/@binh) 🤫
 
