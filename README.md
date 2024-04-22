@@ -14,7 +14,7 @@ I'm currently majoring in Computer Science at Drexel.
 
 [![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=vscode,netlify,idea,heroku,github,figma,eclipse&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,idea,github,figma,eclipse&theme=dark)](https://skillicons.dev)
 
 <!--
 **BinhL3/BinhL3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
