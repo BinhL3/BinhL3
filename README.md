@@ -1,4 +1,4 @@
-### What's up GitHub, I'm Binh :D
+### What's up, I'm Binh :D
 
 I'm currently majoring in Computer Science at Drexel.
 
