@@ -1,6 +1,6 @@
-### What's up, I'm [Binh](https://binhl3.github.io/) :D
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/binhlee)
+
+### What's up, I'm [Binh](https://binhl3.github.io/) :D
 
 I'm currently majoring in Computer Science at Drexel.
 
