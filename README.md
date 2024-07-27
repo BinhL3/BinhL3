@@ -1,5 +1,7 @@
 ### What's up, I'm [Binh](https://binhl3.github.io/) :D
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/binhlee)
+
 I'm currently majoring in Computer Science at Drexel.
 
 - 👨‍💻 I’m currently a SWE Intern at a startup 🚀
@@ -15,8 +17,6 @@ I'm currently majoring in Computer Science at Drexel.
 [![Other Langs](https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=vscode,idea,github,figma,eclipse&theme=dark)](https://skillicons.dev)
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/binhlee)
 
 <!--
 **BinhL3/BinhL3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
