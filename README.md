@@ -1,6 +1,6 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/binhlee)
 
-What's up, I'm [Binh](https://binhl3.github.io/) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Grinning%20Squinting%20Face.webp" alt="Grinning Squinting Face" width="25" height="25" />
+What's up, I'm [Binh](https://binhl3.github.io/) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Grinning%20Squinting%20Face.webp" alt="Grinning Squinting Face" width="130" height="130" />
 
 I'm currently majoring in Computer Science at Drexel.
 
