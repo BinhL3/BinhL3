@@ -20,8 +20,6 @@ I'm currently majoring in Computer Science at Drexel.
 
 [![Tools](https://skillicons.dev/icons?i=vscode,idea,github,figma,eclipse&theme=dark)](https://skillicons.dev)
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
-
 <!--
 **BinhL3/BinhL3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
