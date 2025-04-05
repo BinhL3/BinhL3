@@ -6,7 +6,7 @@
 
 I'm currently majoring in Computer Science at Drexel.
 
-- 👨‍💻 I was formerly a SWE Intern at a startup 🚀
+- 👨‍💻 swe intern at bentley systems
 - 🌱 I’m interested in building SaaS products/ machine learning projects overall
 - 💬 Ask me about Python/Web Development/Git
 - 📫 How to reach me: [@binh](https://www.linkedin.com/in/binhlee/) / bql23@drexel.edu
